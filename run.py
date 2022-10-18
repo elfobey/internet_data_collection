@@ -1,7 +1,7 @@
 from scrapy.crawler import CrawlerProcess
 from scrapy.settings import Settings
-from lesson07.shopparser import settings
-from lesson07.shopparser.spiders.leroymerlinru import LeroymerlinruSpider
+from lesson7.shopparser import settings
+from lesson7.shopparser.spiders.leroymerlinru import LeroymerlinruSpider
 
 
 if __name__ == '__main__':
