@@ -5,7 +5,7 @@
 ● ссылка;
 ● цена.
 
-[Реализуйте очистку и преобразование данных с помощью ItemLoader. Цены должны быть в виде числового значения](https://github.com/Rusta12/CrawlingParsingScraping-Python/blob/master/Lesson%207/leroyparser/spiders/leroymerlin.py](https://github.com/elfobey/internet_data_collection/blob/lesson7/run.py)
+[Реализуйте очистку и преобразование данных с помощью ItemLoader. Цены должны быть в виде числового значения](https://github.com/elfobey/internet_data_collection/blob/lesson7/run.py)
 
 Дополнительно:
 2)Написать универсальный обработчик характеристик товаров, который будет формировать данные вне зависимости от их типа и количества.
